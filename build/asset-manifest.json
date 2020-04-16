@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/smash-ultimate-roster-list/static/css/main.4ffe04a9.chunk.css",
+    "main.js": "/smash-ultimate-roster-list/static/js/main.0b0414cf.chunk.js",
+    "main.js.map": "/smash-ultimate-roster-list/static/js/main.0b0414cf.chunk.js.map",
+    "runtime-main.js": "/smash-ultimate-roster-list/static/js/runtime-main.5ae2d360.js",
+    "runtime-main.js.map": "/smash-ultimate-roster-list/static/js/runtime-main.5ae2d360.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/smash-ultimate-roster-list/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.98440458.chunk.js": "/smash-ultimate-roster-list/static/js/2.98440458.chunk.js",
+    "static/js/2.98440458.chunk.js.map": "/smash-ultimate-roster-list/static/js/2.98440458.chunk.js.map",
+    "index.html": "/smash-ultimate-roster-list/index.html",
+    "precache-manifest.8e799585baa9ba236488c557f1b28d25.js": "/smash-ultimate-roster-list/precache-manifest.8e799585baa9ba236488c557f1b28d25.js",
+    "service-worker.js": "/smash-ultimate-roster-list/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/smash-ultimate-roster-list/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.4ffe04a9.chunk.css.map": "/smash-ultimate-roster-list/static/css/main.4ffe04a9.chunk.css.map",
+    "static/js/2.98440458.chunk.js.LICENSE.txt": "/smash-ultimate-roster-list/static/js/2.98440458.chunk.js.LICENSE.txt",
+    "static/media/Banjo.png": "/smash-ultimate-roster-list/static/media/Banjo.242eda67.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ae2d360.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.98440458.chunk.js",
+    "static/css/main.4ffe04a9.chunk.css",
+    "static/js/main.0b0414cf.chunk.js"
+  ]
+}
